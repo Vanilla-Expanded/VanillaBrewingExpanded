@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using RimWorld;
-using UnityEngine;
+using System;
 using Verse;
 
 namespace VanillaBrewingExpanded
@@ -25,10 +21,10 @@ namespace VanillaBrewingExpanded
         {
             base.TickLong();
             counter++;
-           // Log.Message(counter.ToString());
+           
             if (counter>60 && this.Growth>0.7) {
                 counter = 0;
-                System.Random random = new System.Random();
+                Random random = new Random();
                 if (random.NextDouble() > 0.4) {
                     Thing thing = ThingMaker.MakeThing(this.def.plant.harvestedThingDef, null);
                     thing.SetForbidden(true);
