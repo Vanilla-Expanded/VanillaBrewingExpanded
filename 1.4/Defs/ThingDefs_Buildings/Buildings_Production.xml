@@ -55,6 +55,7 @@
     </inspectorTabs>
     <building>
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+	   <paintable>true</paintable>
     </building>
     <placeWorkers>
       <li>PlaceWorker_PreventInteractionSpotOverlap</li>
