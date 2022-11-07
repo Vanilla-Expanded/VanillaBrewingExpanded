@@ -277,8 +277,8 @@
 
 			<li Class="HediffGiver_RandomDrugEffect">
 				<hediff>ToxicBuildup</hediff>
-				<minSeverity>0.15</minSeverity>
-				<baseMtbDays>360</baseMtbDays>
+				<minSeverity>0.1</minSeverity>
+				<baseMtbDays>3600</baseMtbDays>
 				<partsToAffect>
 					<li>Kidney</li>
 				</partsToAffect>
