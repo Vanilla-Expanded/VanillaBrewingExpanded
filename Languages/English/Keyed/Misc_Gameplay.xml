@@ -50,5 +50,14 @@
 	<VBE_CiderCurrentlyFrozen>This unfermented cider is frozen and will not mature into cider</VBE_CiderCurrentlyFrozen>
 	<VBE_CiderCurrentlyRefrigerated>This unfermented cider is refrigerated and will not mature into cider as fast as it could (matures in {0})</VBE_CiderCurrentlyRefrigerated>
 	<VBE_CiderMaturingCorrectly>This unfermented cider is maturing into cider correctly (matures in {0})</VBE_CiderMaturingCorrectly>
+	
+	<VBE_UnforbidDroppedFruit>Unforbid dropped fruit</VBE_UnforbidDroppedFruit>
+	
+	<VBE_Never>Never</VBE_Never>
+	<VBE_NeverDesc>Never unforbid automatically dropped fruit</VBE_NeverDesc>
+	<VBE_HomeArea>Home area</VBE_HomeArea>
+	<VBE_HomeAreaDesc>Only unforbid automatically dropped fruit if the tree is in the home area</VBE_HomeAreaDesc>
+	<VBE_Always>Always</VBE_Always>
+	<VBE_AlwaysDesc>Always unforbid automatically dropped fruit</VBE_AlwaysDesc>
 
 </LanguageData>

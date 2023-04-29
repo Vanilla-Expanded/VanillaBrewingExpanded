@@ -290,6 +290,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\HomeAreaOrAlways.cs" />
     <Compile Include="Hediffs\Hediff_AmbrandyInspiration.cs" />
     <Compile Include="Hediffs\Hediff_AntiInfections.cs" />
     <Compile Include="Hediffs\Hediff_CiderRemoveToxic.cs" />
@@ -301,6 +302,8 @@
     <Compile Include="Hediffs\Hediff_HotCoffeeAntiGutWorms.cs" />
     <Compile Include="Hediffs\Hediff_HotCoffee.cs" />
     <Compile Include="Hediffs\Hediff_IcedCoffee.cs" />
+    <Compile Include="Options\VanillaBrewingExpanded_Mod.cs" />
+    <Compile Include="Options\VanillaBrewingExpanded_Settings.cs" />
     <Compile Include="Plants\Plant_AutoProduce.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
