@@ -87,6 +87,13 @@
 						<li>VBE_Bar</li>
 					</value>
 				</li>
+				<li Class="PatchOperationAdd">
+					<success>Always</success>
+					<xpath>/Defs/ThingDef[defName="VFEM_Wine"]/thingCategories</xpath>
+					<value>
+						<li>VBE_DrinksLuxurySpirits</li>
+					</value>
+				</li>
 			</operations>
 		</match>
 	</Operation>
