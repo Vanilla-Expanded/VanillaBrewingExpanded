@@ -5,6 +5,7 @@
 		<defName>VBE_SimpleCocktail</defName>
 		<label>simple cocktail</label>
 		<description>A simple cocktail quickly mixed from a duo of ingredients.</description>
+		<thingClass>VanillaCookingExpanded.GourmetMeal</thingClass>
 		<graphicData>
 			<texPath>Things/Items/Drinks/VBE_CocktailSimple</texPath>
 			<graphicClass>Graphic_StackCount</graphicClass>
@@ -49,9 +50,7 @@
 				<needLevelOffset>0.9</needLevelOffset>
 				<listOrder>10</listOrder>
 			</li>
-			<li Class="VanillaCookingExpanded.CompProperties_StackByCondiments">
-				<condimentTagToCheck>Condiments</condimentTagToCheck>
-			</li>
+		
 		</comps>
 
 	</ThingDef>
@@ -60,6 +59,7 @@
 		<defName>VBE_FineCocktail</defName>
 		<label>fine cocktail</label>
 		<description>A fine complex cocktail, mixed precisely from multiple ingredients.</description>
+		<thingClass>VanillaCookingExpanded.GourmetMeal</thingClass>
 		<graphicData>
 			<texPath>Things/Items/Drinks/VBE_CocktailFine</texPath>
 			<graphicClass>Graphic_StackCount</graphicClass>
@@ -104,9 +104,7 @@
 				<needLevelOffset>0.9</needLevelOffset>
 				<listOrder>10</listOrder>
 			</li>
-			<li Class="VanillaCookingExpanded.CompProperties_StackByCondiments">
-				<condimentTagToCheck>Condiments</condimentTagToCheck>
-			</li>
+			
 		</comps>
 
 	</ThingDef>
@@ -114,6 +112,7 @@
 	<ThingDef ParentName="MealCooked">
 		<defName>VBE_LavishCocktail</defName>
 		<label>lavish cocktail</label>
+		<thingClass>VanillaCookingExpanded.GourmetMeal</thingClass>
 		<description>A masterpiece of bartending incarnate, this cocktail was mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served.</description>
 		<graphicData>
 			<texPath>Things/Items/Drinks/VBE_CocktailLavish</texPath>
@@ -159,9 +158,7 @@
 				<needLevelOffset>0.9</needLevelOffset>
 				<listOrder>10</listOrder>
 			</li>
-			<li Class="VanillaCookingExpanded.CompProperties_StackByCondiments">
-				<condimentTagToCheck>Condiments</condimentTagToCheck>
-			</li>
+			
 		</comps>
 
 	</ThingDef>
@@ -170,6 +167,7 @@
 		<defName>VBE_GourmetCocktail</defName>
 		<label>gourmet cocktail</label>
 		<description>A veritable miracle of mixology. This cocktails every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible.</description>
+		<thingClass>VanillaCookingExpanded.GourmetMeal</thingClass>
 		<graphicData>
 			<texPath>Things/Items/Drinks/VBE_CocktailGourmet</texPath>
 			<graphicClass>Graphic_StackCount</graphicClass>
@@ -214,9 +212,7 @@
 				<needLevelOffset>0.9</needLevelOffset>
 				<listOrder>10</listOrder>
 			</li>
-			<li Class="VanillaCookingExpanded.CompProperties_StackByCondiments">
-				<condimentTagToCheck>Condiments</condimentTagToCheck>
-			</li>
+			
 		</comps>
 
 	</ThingDef>
