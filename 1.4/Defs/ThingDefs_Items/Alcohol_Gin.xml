@@ -54,6 +54,7 @@
 					<hediffDef>AlcoholTolerance</hediffDef>
 					<severity>0.025</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 			</outcomeDoers>
 		</ingestible>

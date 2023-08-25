@@ -33,6 +33,7 @@
 					<hediffDef>AlcoholTolerance</hediffDef>
 					<severity>0.016</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>VBE_ConsumedCocktail</hediffDef>
@@ -87,6 +88,7 @@
 					<hediffDef>AlcoholTolerance</hediffDef>
 					<severity>0.025</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>VBE_ConsumedCocktail</hediffDef>
@@ -141,6 +143,7 @@
 					<hediffDef>AlcoholTolerance</hediffDef>
 					<severity>0.04</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>VBE_ConsumedCocktail</hediffDef>
@@ -195,6 +198,7 @@
 					<hediffDef>AlcoholTolerance</hediffDef>
 					<severity>0.025</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>VBE_ConsumedCocktail</hediffDef>

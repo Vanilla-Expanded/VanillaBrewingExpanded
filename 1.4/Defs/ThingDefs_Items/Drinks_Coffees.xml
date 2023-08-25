@@ -51,6 +51,7 @@
 					<hediffDef>VBE_CaffeineTolerance</hediffDef>
 					<severity>0.016</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li> 
 			</outcomeDoers>
 		</ingestible>
@@ -129,6 +130,7 @@
 					<hediffDef>VBE_CaffeineTolerance</hediffDef>
 					<severity>0.016</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 			</outcomeDoers>
 		</ingestible>
@@ -250,7 +252,8 @@
 		<addictionHediff>VBE_CaffeineAddiction</addictionHediff>
 		<toleranceHediff>VBE_CaffeineTolerance</toleranceHediff>
 		<onGeneratedAddictedToleranceChance>0.8</onGeneratedAddictedToleranceChance>
-
+		<geneToleranceBuildupFactorResist>0.5</geneToleranceBuildupFactorResist>
+		<geneToleranceBuildupFactorImmune>0</geneToleranceBuildupFactorImmune>
 	</ChemicalDef>
 
 	<NeedDef ParentName="DrugAddictionNeedBase">
