@@ -14,6 +14,15 @@
 			<li>Electricity</li>
 			<li>VBE_LiquorBrewing</li>
 		</prerequisites>
+		<generalRules>
+  <rulesStrings>
+    <li>subject->the alchemy of spirits</li>
+    <li>subject_story->harnessed the ancient secrets of distillation, refining the craft to produce spirits that warm the soul and embolden the heart</li>
+    <li>subject_story->elevated brewing from simple fermentation to an art form, creating liquors with unparalleled depth and character</li>
+    <li>subject_story->cultivated a legacy of craftsmanship, where each drop tells the story of its making</li>
+    <li>subject_gerund->distilling the essence of tradition into spirits of distinction</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
@@ -29,6 +38,16 @@
 			
 			<li>Brewing</li>
 		</prerequisites>
+		<generalRules>
+  <rulesStrings>
+    <li>subject->the symphony of flavors</li>
+    <li>subject_story->mastered the electric alchemy of mixology, blending science and art to stir the soul with every sip</li>
+    <li>subject_story->introduced an era of sophistication in drink, where the bar becomes a stage for the dance of flavors</li>
+    <li>subject_story->engineered machines for perfect fermenting and bottling, ensuring each concoction is a masterpiece</li>
+    <li>subject_story->pioneered the creation of cocktails that are not merely drinks, but experiences, evoking moments and memories</li>
+    <li>subject_gerund->crafting elixirs that captivate the senses, blending tradition with innovation at the bar workbench</li>
+  </rulesStrings>
+</generalRules>
 	</ResearchProjectDef>
 
 
