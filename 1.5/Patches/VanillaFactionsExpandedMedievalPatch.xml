@@ -26,62 +26,7 @@
 					</value>
 				</li>
 				<!-- Adding Wine and Mead to Cocktail Recipes -->
-				<li Class="PatchOperationAdd">
-					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailMealBase"]/fixedIngredientFilter/thingDefs</xpath>
-					<value>
-						<li>VFEM2_Wine</li>
-						<li>VFEM2_Mead</li>
-					</value>
-				</li>
-				<li Class="PatchOperationAdd">
-					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailMealBase"]/defaultIngredientFilter/thingDefs</xpath>
-					<value>
-						<li>VFEM2_Wine</li>
-						<li>VFEM2_Mead</li>
-					</value>
-				</li>
-				<li Class="PatchOperationAdd">
-					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailFineMealBase"]/fixedIngredientFilter/thingDefs</xpath>
-					<value>
-						<li>VFEM2_Wine</li>
-						<li>VFEM2_Mead</li>
-					</value>
-				</li>
-				<li Class="PatchOperationAdd">
-					<xpath>/Defs/RecipeDef[@Name = "VBE_CookCocktailFineMealBase"]/defaultIngredientFilter/thingDefs</xpath>
-					<value>
-						<li>VFEM2_Wine</li>
-						<li>VFEM2_Mead</li>
-					</value>
-				</li>
-				<li Class="PatchOperationAdd">
-					<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailFine"]/ingredients/li/filter/thingDefs</xpath>
-					<value>
-						<li>VFEM2_Wine</li>
-						<li>VFEM2_Mead</li>
-					</value>
-				</li>
-				<li Class="PatchOperationConditional">
-					<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailLavish"]/ingredients/li[1]/filter/thingDefs</xpath>
-					<nomatch Class="PatchOperationAdd">
-						<success>Always</success>
-						<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailLavish"]/ingredients/li[1]/filter</xpath>
-						<value>
-							<thingDefs>
-								<li>VFEM2_Wine</li>
-								<li>VFEM2_Mead</li>
-							</thingDefs>
-						</value>
-					</nomatch>
-					<match Class="PatchOperationAdd">
-						<success>Always</success>
-						<xpath>/Defs/RecipeDef[defName = "VBE_MakeCocktailLavish"]/ingredients/li[1]/filter/thingDefs</xpath>
-						<value>
-							<li>VFEM2_Wine</li>
-							<li>VFEM2_Mead</li>
-						</value>
-					</match>
-				</li>
+				
 				<li Class="PatchOperationAdd">
 					<xpath>/Defs/ThingDef[defName = "VFEM2_Wine"]/ingestible</xpath>
 					<value>

@@ -18,6 +18,7 @@
 		<ingredients>
 			<li>
 				<filter>
+					<customSummary>fruits</customSummary>
 					<thingDefs>
 						<li>VCE_RawApple</li>
 						<li>VCE_RawPeach</li>

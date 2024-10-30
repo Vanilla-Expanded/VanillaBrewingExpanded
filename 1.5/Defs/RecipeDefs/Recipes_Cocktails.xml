@@ -75,6 +75,7 @@
 		<ingredients>
 			<li>
 				<filter>
+					<customSummary>simple spirits</customSummary>
 					<categories>
 						<li>VBE_DrinksSimpleSpirits</li>
 					</categories>
@@ -86,6 +87,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>non-alcoholic drinks</customSummary>
 					<categories>
 						<li>VBE_DrinksNonAlcoholic</li>
 					</categories>
@@ -122,6 +124,7 @@
 		<ingredients>
 			<li>
 				<filter>
+					<customSummary>simple or luxury spirits</customSummary>
 					<categories>
 						<li>VBE_DrinksSimpleSpirits</li>
 						<li>VBE_DrinksLuxurySpirits</li>
@@ -134,6 +137,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>non-alcoholic drinks</customSummary>
 					<categories>
 						<li>VBE_DrinksNonAlcoholic</li>
 					</categories>
@@ -173,6 +177,7 @@
 		<ingredients>
 			<li>
 				<filter>
+					<customSummary>simple spirits</customSummary>
 					<categories>
 						<li>VBE_DrinksSimpleSpirits</li>
 					</categories>
@@ -184,6 +189,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>luxury spirits</customSummary>
 					<categories>
 						<li>VBE_DrinksLuxurySpirits</li>
 					</categories>
@@ -193,6 +199,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>non-alcoholic drinks</customSummary>
 					<categories>
 						<li>VBE_DrinksNonAlcoholic</li>
 					</categories>

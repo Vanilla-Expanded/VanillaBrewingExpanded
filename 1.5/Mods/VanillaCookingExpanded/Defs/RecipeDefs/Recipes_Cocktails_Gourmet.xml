@@ -41,6 +41,7 @@
 		<ingredients>
 			<li>
 				<filter>
+					<customSummary>simple spirits</customSummary>
 					<categories>
 						<li>VBE_DrinksSimpleSpirits</li>
 					</categories>
@@ -49,6 +50,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>luxury spirits</customSummary>
 					<categories>
 						<li>VBE_DrinksLuxurySpirits</li>
 					</categories>
@@ -57,6 +59,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>non-alcoholic drinks</customSummary>
 					<categories>
 						<li>VBE_DrinksNonAlcoholic</li>
 					</categories>
@@ -68,6 +71,7 @@
 			</li>
 			<li>
 				<filter>
+					<customSummary>condiments</customSummary>
 					<categories>
 						<li>VCE_Condiments</li>
 					</categories>
