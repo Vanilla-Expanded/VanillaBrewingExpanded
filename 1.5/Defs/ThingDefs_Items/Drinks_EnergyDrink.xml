@@ -66,6 +66,7 @@
 				<minToleranceToAddict>0.25</minToleranceToAddict>
 				<existingAddictionSeverityOffset>0.20</existingAddictionSeverityOffset>
 				<needLevelOffset>0.9</needLevelOffset>
+				<teetotalerCanConsume>true</teetotalerCanConsume>
 				<listOrder>10</listOrder>
 			</li>
 
