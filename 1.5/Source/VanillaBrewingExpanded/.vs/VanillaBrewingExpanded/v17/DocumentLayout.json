@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\vanillabrewingexpanded\\1.5\\source\\vanillabrewingexpanded\\vanillabrewingexpanded\\hediffs\\hediff_ambrandyinspiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\hediffs\\hediff_ambrandyinspiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VanillaBrewingExpanded||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\plants\\plant_autoproduce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\plants\\plant_autoproduce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\options\\vanillabrewingexpanded_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\options\\vanillabrewingexpanded_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\enums\\homeareaoralways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\enums\\homeareaoralways.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\hediffs\\hediff_teaantigutworms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\hediffs\\hediff_teaantigutworms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\options\\vanillabrewingexpanded_mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\options\\vanillabrewingexpanded_mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\hediffs\\hediff_antiinfections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\hediffs\\hediff_antiinfections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\hediffs\\hediff_antimuscleparasites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\hediffs\\hediff_antimuscleparasites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\vanillabrewingexpanded\\hediffs\\hediff_hotcoffeeantigutworms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|solutionrelative:vanillabrewingexpanded\\hediffs\\hediff_hotcoffeeantigutworms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF722B3-84E0-487F-8486-F8D7FD404E0B}|VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\vanillabrewingexpanded\\1.5\\source\\vanillabrewingexpanded\\vanillabrewingexpanded\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hediff_AmbrandyInspiration.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_AmbrandyInspiration.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Hediffs\\Hediff_AmbrandyInspiration.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_AmbrandyInspiration.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Hediffs\\Hediff_AmbrandyInspiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VanillaBrewingExpanded",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj",
+              "RelativeToolTip": "VanillaBrewingExpanded\\VanillaBrewingExpanded.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-01-26T21:50:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeAreaOrAlways.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Enums\\HomeAreaOrAlways.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Enums\\HomeAreaOrAlways.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Enums\\HomeAreaOrAlways.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Enums\\HomeAreaOrAlways.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VanillaBrewingExpanded_Settings.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Settings.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Settings.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Settings.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Settings.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hediff_TeaAntiGutWorms.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_TeaAntiGutWorms.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Hediffs\\Hediff_TeaAntiGutWorms.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_TeaAntiGutWorms.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Hediffs\\Hediff_TeaAntiGutWorms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VanillaBrewingExpanded_Mod.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Mod.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Mod.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Mod.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Options\\VanillaBrewingExpanded_Mod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hediff_AntiInfections.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_AntiInfections.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Hediffs\\Hediff_AntiInfections.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_AntiInfections.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Hediffs\\Hediff_AntiInfections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plant_AutoProduce.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Plants\\Plant_AutoProduce.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Plants\\Plant_AutoProduce.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Plants\\Plant_AutoProduce.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Plants\\Plant_AutoProduce.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hediff_AntiMuscleParasites.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_AntiMuscleParasites.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Hediffs\\Hediff_AntiMuscleParasites.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_AntiMuscleParasites.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Hediffs\\Hediff_AntiMuscleParasites.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hediff_HotCoffeeAntiGutWorms.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_HotCoffeeAntiGutWorms.cs",
+              "RelativeDocumentMoniker": "VanillaBrewingExpanded\\Hediffs\\Hediff_HotCoffeeAntiGutWorms.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\VanillaBrewingExpanded\\1.5\\Source\\VanillaBrewingExpanded\\VanillaBrewingExpanded\\Hediffs\\Hediff_HotCoffeeAntiGutWorms.cs",
+              "RelativeToolTip": "VanillaBrewingExpanded\\Hediffs\\Hediff_HotCoffeeAntiGutWorms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:59:21.9Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

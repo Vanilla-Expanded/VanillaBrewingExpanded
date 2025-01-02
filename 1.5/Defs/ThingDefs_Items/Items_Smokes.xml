@@ -24,7 +24,7 @@
 		<ingestible>
 			<foodType>Plant, Processed</foodType>
 			<joyKind>Chemical</joyKind>
-			<joy>0.30</joy>
+			<joy>0.30</joy> 
 			<baseIngestTicks>720</baseIngestTicks>
 			<nurseable>true</nurseable>
 			<drugCategory>Social</drugCategory>
