@@ -57,13 +57,14 @@
 					<hediffDef>VBE_TobaccoHigh</hediffDef>
 					<severity>1</severity>
 					<toleranceChemical>VBE_Tobacco</toleranceChemical>
-					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 				
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>VBE_TobaccoTolerance</hediffDef>
 					<severity>0.030</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<toleranceChemical>VBE_Tobacco</toleranceChemical>
+					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 			</outcomeDoers>
 		</ingestible>
@@ -143,6 +144,7 @@
 					<hediffDef>VBE_TobaccoTolerance</hediffDef>
 					<severity>0.015</severity>
 					<divideByBodySize>true</divideByBodySize>
+					<toleranceChemical>VBE_Tobacco</toleranceChemical>
 					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
 				</li>
 			</outcomeDoers>
