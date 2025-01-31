@@ -7,19 +7,29 @@
 		<match Class="PatchOperationSequence">
 			<operations>
 				<!-- Adding Chemshine to Cocktail Recipes -->
-				
 				<li Class="PatchOperationAdd">
 					<xpath>/Defs/ThingDef[defName = "Chemshine"]/ingestible</xpath>
 					<value>
 						<specialThoughtAsIngredient>VBE_ChemshineAsIngredient</specialThoughtAsIngredient>
 					</value>
 				</li>
-				<li Class="PatchOperationAdd">
+				<li Class="PatchOperationConditional">
 					<success>Always</success>
-					<xpath>/Defs/ThingDef[defName="Chemshine"]/thingCategories</xpath>
-					<value>
-						<li>VBE_DrinksLuxurySpirits</li>
-					</value>
+					<xpath>Defs/ThingDef[defName="Chemshine"]/thingCategories</xpath>
+					<nomatch Class="PatchOperationAdd">
+						<xpath>Defs/ThingDef[defName="Chemshine"]</xpath>
+						<value>
+							<thingCategories>
+								<li>VBE_DrinksLuxurySpirits</li>
+							</thingCategories>
+						</value>
+					</nomatch>
+					<match Class="PatchOperationAdd">
+						<xpath>Defs/ThingDef[defName="Chemshine"]/thingCategories</xpath>
+						<value>
+							<li>VBE_DrinksLuxurySpirits</li>
+						</value>
+					</match>
 				</li>
 				<li Class="PatchOperationAdd">
 					<xpath>/Defs</xpath>
