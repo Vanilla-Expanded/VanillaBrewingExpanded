@@ -26,6 +26,7 @@
 		<ingestible>
 			<preferability>NeverForNutrition</preferability>
 			<optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+			<foodType>Processed</foodType>
 			<specialThoughtAsIngredient>VBE_ConsumedLuciferiumPowder</specialThoughtAsIngredient>
 		</ingestible>
 		<ingredient>
@@ -59,6 +60,7 @@
 		<ingestible>
 			<preferability>NeverForNutrition</preferability>
 			<optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+			<foodType>Processed</foodType>
 			<specialThoughtAsIngredient>VBE_ConsumedWakeupPowder</specialThoughtAsIngredient>
 		</ingestible>
 		<ingredient>
@@ -92,6 +94,7 @@
 		<ingestible>
 			<preferability>NeverForNutrition</preferability>
 			<optimalityOffsetFeedingAnimals>-50</optimalityOffsetFeedingAnimals>
+			<foodType>Processed</foodType>
 			<specialThoughtAsIngredient>VBE_ConsumedGoStock</specialThoughtAsIngredient>
 		</ingestible>
 		<ingredient>
