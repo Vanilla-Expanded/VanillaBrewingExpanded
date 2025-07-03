@@ -13,7 +13,7 @@
 
 
 				<li Class="PatchOperationAddModExtension"> 
-					<xpath>/Defs/ThingDef[@Name = "VBE_AmbrandyBase"]</xpath>
+					<xpath>/Defs/ThingDef[defName = "VBE_Ambrandy"]</xpath>
 					<value>
 
 						
@@ -258,4 +258,3 @@
 
 
 </Patch>
-
