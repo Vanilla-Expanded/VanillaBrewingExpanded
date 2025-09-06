@@ -200,8 +200,8 @@
     <validWhileDespawned>true</validWhileDespawned>
     <stages>
       <li>
-        <label>smooth and mild</label>
-        <description>That cigarette was just what I needed, such a smooth flavor.</description>
+        <label>Smoked cigarette</label>
+        <description>That cigarette was just what I needed.</description>
         <baseMoodEffect>7</baseMoodEffect>
       </li>
     </stages>
@@ -245,8 +245,8 @@
     <validWhileDespawned>true</validWhileDespawned>
     <stages>
       <li>
-        <label>puffing on luxury</label>
-        <description>A cigar makes me feel like I’ve made it big in life.</description>
+        <label>Smoked cigar</label>
+        <description>Smoking a cigar makes me feel like I’ve made it big in life.</description>
         <baseMoodEffect>15</baseMoodEffect>
       </li>
     </stages>
@@ -350,7 +350,7 @@
       </li>
       <li>
         <label>tobacco withdrawal</label>
-        <description>I really wish I could smoke. I'd kill for a cigarette.</description>
+        <description>I really wish I could smoke. I'd really like a cigarette.</description>
         <baseMoodEffect>-18</baseMoodEffect>
       </li>
     </stages>

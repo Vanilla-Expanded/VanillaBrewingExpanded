@@ -135,7 +135,7 @@
 	<ThingDef ParentName="BuildingBase">
 		<defName>VBE_WhiskeyCask</defName>
 		<label>whiskey cask</label>
-		<description>A huge barrel meant for aging a high volume of whiskey at once. Natural woody flavors are imparted into the mixture as the barrel itself absorbs a portion of the liquid during the fermenting process. Any sunlight hitting the barrel may slow down the fermenting process, or even ruin the whole batch.</description>
+		<description>A huge barrel meant for aging a high volume of whiskey at once. Natural woody flavors are imparted into the mixture as the barrel itself absorbs a portion of the liquid during the fermenting process. Any sunlight (or light above 50% brightness) hitting the barrel may slow down the fermenting process, or even ruin the whole batch.</description>
 		<inspectorTabs>
 			<li>PipeSystem.ITab_Processor</li>
 		</inspectorTabs>

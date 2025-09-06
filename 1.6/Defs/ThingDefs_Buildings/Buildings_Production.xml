@@ -52,7 +52,9 @@
 		</inspectorTabs>
 		<building>
 			<spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
-			<paintable>true</paintable>
+			<paintable>true</paintable>			
+			<workTableRoomRole>Kitchen</workTableRoomRole>
+			<workTableNotInRoomRoleFactor>0.8</workTableNotInRoomRoleFactor>
 		</building>
 		<placeWorkers>
 			<li>PlaceWorker_PreventInteractionSpotOverlap</li>

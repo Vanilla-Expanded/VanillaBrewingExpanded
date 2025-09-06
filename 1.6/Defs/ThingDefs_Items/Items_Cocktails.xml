@@ -17,6 +17,7 @@
 			<Nutrition>0.25</Nutrition>
 		</statBases>
 		<ingestible>
+		<foodType>Fluid, Processed, Liquor</foodType>
 			<preferability>NeverForNutrition</preferability>
 			<joyKind>Chemical</joyKind>
 			<joy>0.35</joy>
@@ -31,6 +32,7 @@
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>AlcoholTolerance</hediffDef>
+					<toleranceChemical>Alcohol</toleranceChemical>
 					<severity>0.016</severity>
 					<divideByBodySize>true</divideByBodySize>
 					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
@@ -72,6 +74,7 @@
 			<Nutrition>0.35</Nutrition>
 		</statBases>
 		<ingestible>
+		<foodType>Fluid, Processed, Liquor</foodType>
 			<preferability>NeverForNutrition</preferability>
 			<joyKind>Chemical</joyKind>
 			<joy>0.55</joy>
@@ -86,6 +89,7 @@
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>AlcoholTolerance</hediffDef>
+					<toleranceChemical>Alcohol</toleranceChemical>
 					<severity>0.025</severity>
 					<divideByBodySize>true</divideByBodySize>
 					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
@@ -127,6 +131,7 @@
 			<Nutrition>0.45</Nutrition>
 		</statBases>
 		<ingestible>
+		<foodType>Fluid, Processed, Liquor</foodType>
 			<preferability>NeverForNutrition</preferability>
 			<joyKind>Chemical</joyKind>
 			<joy>0.75</joy>
@@ -141,6 +146,7 @@
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>AlcoholTolerance</hediffDef>
+					<toleranceChemical>Alcohol</toleranceChemical>
 					<severity>0.04</severity>
 					<divideByBodySize>true</divideByBodySize>
 					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>
@@ -182,6 +188,7 @@
 			<Nutrition>0.30</Nutrition>
 		</statBases>
 		<ingestible>
+		<foodType>Fluid, Processed, Liquor</foodType>
 			<preferability>NeverForNutrition</preferability>
 			<joyKind>Chemical</joyKind>
 			<joy>0.95</joy>
@@ -196,6 +203,7 @@
 				</li>
 				<li Class="IngestionOutcomeDoer_GiveHediff">
 					<hediffDef>AlcoholTolerance</hediffDef>
+					<toleranceChemical>Alcohol</toleranceChemical>
 					<severity>0.025</severity>
 					<divideByBodySize>true</divideByBodySize>
 					<multiplyByGeneToleranceFactors>true</multiplyByGeneToleranceFactors>

@@ -11,8 +11,8 @@
 		<durationDays>0.2</durationDays>
 		<stages>
 			<li>
-				<label>Sugar rushed</label>
-				<description>I drank a sweet, fizzy soda, a small but welcomed luxury.</description>
+				<label>Drank soda</label>
+				<description>I drank a sweet and fizzy soda, a small luxury.</description>
 				<baseMoodEffect>6</baseMoodEffect>
 			</li>
 		</stages>	
@@ -26,8 +26,8 @@
 		<durationDays>0.2</durationDays>
 		<stages>
 			<li>
-				<label>Fancied a cuppa</label>
-				<description>A delightfully simple cup of tea really brightens the day.</description>
+				<label>Drank tea</label>
+				<description>A simple cup of tea really brightens the day.</description>
 				<baseMoodEffect>3</baseMoodEffect>
 			</li>
 		</stages>	

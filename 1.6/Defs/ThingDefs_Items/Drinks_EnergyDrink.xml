@@ -147,8 +147,8 @@
 		<validWhileDespawned>true</validWhileDespawned>
 		<stages>
 			<li>
-				<label>I feel like I’ve been given wings!</label>
-				<description>Oof, that energy drink has me bouncing off the walls!</description>
+				<label>Drank energy drink</label>
+				<description>I feel like I’ve been given wings!</description>
 				<baseMoodEffect>6</baseMoodEffect>
 			</li>
 

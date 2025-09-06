@@ -86,7 +86,7 @@
 	<ThingDef ParentName="DrugBase">
 		<defName>VBE_IceCoffee</defName>
 		<label>iced coffee</label>
-		<description>An icy, chilled coffee. Chilling coffee is preferred by many in warmer climates, anecdotally it also smooths out bitter flavors and brings out noticeable, albeit subtle nuttiness. Just like its warm counterpart, it is ubiquitous among students and professionals alike.</description>  
+		<description>An icy, chilled coffee. Chilling coffee is preferred by many in warmer climates, anecdotally it also smooths out bitter flavors and brings out subtle nuttiness. Just like its warm counterpart, it is ubiquitous among students and professionals alike across the galaxy.</description>  
 		<graphicData>
 			<texPath>Things/Items/Drinks/VBE_IceCoffee</texPath>
 			<graphicClass>Graphic_StackCount</graphicClass>
@@ -155,9 +155,9 @@
 
 	<HediffDef>
 		<defName>VBE_HotCoffeeHigh</defName>
-		<label>hot coffee high</label>
-		<labelNoun>a coffee high</labelNoun>
-		<description>Caffeine naturally found in coffee once metabolised increases the stimuli in one's nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.</description>
+		<label>caffeine high (hot)</label>
+		<labelNoun>a caffeine high (hot)</labelNoun>
+		<description>Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing the need to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.</description>
 		<hediffClass>VanillaBrewingExpanded.Hediff_HotCoffee</hediffClass>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
@@ -186,9 +186,9 @@
 	
 	<HediffDef>
 		<defName>VBE_IcedCoffeeHigh</defName>
-		<label>iced coffee high</label>
-		<labelNoun>a coffee high</labelNoun>
-		<description>Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing ones urge to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.</description>
+		<label>caffeine high (iced)</label>
+		<labelNoun>caffeine high (iced)</labelNoun>
+		<description>Caffeine naturally found in coffee once metabolised increases the stimuli in ones nervous system, suppressing the need to sleep, as well as clearing ones mind. Increases learning speed by a 15% amount and 15% reduction in rest fall rate. Hot coffee reduces hypothermia, cold reduces heatstroke.</description>
 		<hediffClass>VanillaBrewingExpanded.Hediff_IcedCoffee</hediffClass>
 		<defaultLabelColor>(1,0,0.5)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
@@ -222,8 +222,8 @@
 		<validWhileDespawned>true</validWhileDespawned>
 		<stages>
 			<li>
-				<label>Brewed awakening</label>
-				<description>That coffee hit the spot, now let’s get some work done.</description>
+				<label>Drank hot coffee</label>
+				<description>That coffee hit the spot.</description>
 				<baseMoodEffect>3</baseMoodEffect>
 			</li>
 
@@ -237,8 +237,8 @@
 		<validWhileDespawned>true</validWhileDespawned>
 		<stages>
 			<li>
-				<label>Icy awakening</label>
-				<description>Nothing better than iced coffee to refresh yourself.</description>
+				<label>Drank iced coffee</label>
+				<description>That coffee hit the spot.</description>
 				<baseMoodEffect>3</baseMoodEffect>
 			</li>
 
@@ -340,7 +340,7 @@
 			</li>
 			<li>
 				<label>caffeine withdrawal</label>
-				<description>God I'm tired. Everything's so annoying, my hands are shaking and my head is pounding.</description>
+				<description>I'm so tired. Everything's annoying, my hands are shaking and my head is pounding.</description>
 				<baseMoodEffect>-10</baseMoodEffect>
 			</li>
 		</stages>
