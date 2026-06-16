@@ -28,6 +28,7 @@
 		<li IfModActive="VanillaExpanded.VCookE_copy">1.6/Mods/VanillaCookingExpanded</li>
 		<li IfModActive="VanillaExpanded.VPlantsE">1.6/Mods/VanillaPlantsExpanded</li>	
 		<li IfModActive="VanillaExpanded.VPlantsE_copy">1.6/Mods/VanillaPlantsExpanded</li>
+		<li IfModActive="vanillaexpanded.achievements">1.6/Mods/Achievements</li>
 	
 	</v1.6>
 </loadFolders>

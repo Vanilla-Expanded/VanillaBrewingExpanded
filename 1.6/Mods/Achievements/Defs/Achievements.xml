@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<AchievementsExpanded.AchievementTabDef>
+		<defName>VCE_Achievements</defName>
+		<label>Vanilla Cuisine</label>
+	</AchievementsExpanded.AchievementTabDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_ConsumeAmbrandy</defName>
+		<label>Divine Nectar</label>
+		<description>Have colonists consume 30 good quality (or better) ambrandy</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.IngestionTracker">
+			<ingestorThingDef>Human</ingestorThingDef>
+			<count>30</count>
+			<foodDef>VBE_Ambrandy</foodDef>
+			<quality>Good</quality>
+		</tracker>
+		<texPath>Achievements/VAE_ConsumeAmbrandy</texPath>
+		<points>50</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_CatDrinksAmbrandy</defName>
+		<label>Cat-astrophe</label>
+		<description>Have a colony cat (base game) consume a legendary ambrandy</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.IngestionTracker">
+			<ingestorThingDef>Cat</ingestorThingDef>
+			<count>1</count>
+			<foodDef>VBE_Ambrandy</foodDef>
+			<quality>Legendary</quality>
+		</tracker>
+		<texPath>Achievements/VAE_CatDrinksAmbrandy</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_MakeDoubleAgedWhiskey</defName>
+		<label>The Original Water of Life</label>
+		<description>Stockpile 100 double-aged whiskey</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemTracker">
+			<def>VBE_DoubleWhiskey</def>
+			<count>100</count>
+		</tracker>
+		<texPath>Achievements/VAE_MakeDoubleAgedWhiskey</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_DrinkTequila</defName>
+		<label>Ay Pendejo</label>
+		<description>Have colonists consume 50 bottles of tequila</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.IngestionTracker">
+			<ingestorThingDef>Human</ingestorThingDef>
+			<count>50</count>
+			<foodDef>VBE_Tequila</foodDef>
+		</tracker>
+		<texPath>Achievements/VAE_DrinkTequila</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_CurdledMess</defName>
+		<label>Curdled Mess!</label>
+		<description>Make 10 simple cocktails mixing beer and milk, you monster</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_SimpleCocktail</def>
+			<includeAllIngredients>
+				<li>Beer</li>
+				<li>Milk</li>
+			</includeAllIngredients>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_CurdledMess</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_SanFrancisco</defName>
+		<label>San Francisco</label>
+		<description>Make 10 simple cocktails mixing vodka and juice</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_SimpleCocktail</def>
+			<includeAllIngredients>
+				<li>VBE_Vodka</li>
+				<li>VBE_Juice</li>
+			</includeAllIngredients>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_SanFrancisco</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_OldFashioned</defName>
+		<label>Old Fashioned</label>
+		<description>Make 10 simple cocktails mixing whiskey and juice</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_SimpleCocktail</def>
+			<includeAllIngredients>
+				<li>VBE_Whiskey</li>
+				<li>VBE_Juice</li>
+			</includeAllIngredients>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_OldFashioned</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_AzureTwilight</defName>
+		<label>Azure Twilight</label>
+		<description>Make 10 fine cocktails mixing gin and juice</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_LavishCocktail</def>
+			<includeAllIngredients>
+				<li>VBE_Gin</li>
+				<li>VBE_Juice</li>
+			</includeAllIngredients>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_AzureTwilight</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_MexicanCoffee</defName>
+		<label>Mexican Coffee</label>
+		<description>Make 10 lavish cocktails mixing tequila, hot coffee and whiskey</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_LavishCocktail</def>
+			<includeAllIngredients>
+				<li>VBE_Tequila</li>
+				<li>VBE_HotCoffee</li>
+				<li>VBE_Whiskey</li>
+			</includeAllIngredients>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_MexicanCoffee</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_MintJulep</defName>
+		<label>Mint Julep</label>
+		<description>Make 10 gourmet cocktails mixing whiskey, double whiskey and soda, plus a condiment of your choice</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_GourmetCocktail</def>
+			<includeAllIngredients>
+				<li>VBE_DoubleWhiskey</li>
+				<li>VBE_Soda</li>
+				<li>VBE_Whiskey</li>
+			</includeAllIngredients>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_MintJulep</texPath>
+		<points>20</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef MayRequire="VanillaExpanded.VCookE">
+		<defName>VAE_LuciCocktail</defName>
+		<label>Hell's Cocktail</label>
+		<description>Make 10 gourmet cocktails including luciferium powder</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_GourmetCocktail</def>
+			<includeingredient>VBE_LuciferiumPowder</includeingredient>
+			<count>10</count>
+		</tracker>
+		<texPath>Achievements/VAE_LuciCocktail</texPath>
+		<points>20</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_SponsoredByPepsi</defName>
+		<label>Sponsored by Pepsi</label>
+		<description>Build 5 soda fountains</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.BuildingTracker">
+			<def>VBE_SodaFountain</def>
+			<count>5</count>
+		</tracker>
+		<texPath>Achievements/VAE_SponsoredByPepsi</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_HarvestCoffee</defName>
+		<label>Brew-tiful Harvest</label>
+		<description>Harvest 100 coffee plants</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.PlantTracker">
+			<def>VBE_Plant_Coffee</def>
+			<count>100</count>
+		</tracker>
+		<texPath>Achievements/VAE_HarvestCoffee</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_HarvestTea</defName>
+		<label>Dirty, Stinky Leaves</label>
+		<description>Harvest 100 tea plants</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.PlantTracker">
+			<def>VBE_Plant_Tea</def>
+			<count>100</count>
+		</tracker>
+		<texPath>Achievements/VAE_HarvestTea</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_HarvestTobacco</defName>
+		<label>The Cancer Crop</label>
+		<description>Harvest 100 tobacco plants</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.PlantTracker">
+			<def>VBE_Plant_Tobacco</def>
+			<count>100</count>
+		</tracker>
+		<texPath>Achievements/VAE_HarvestTobacco</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_HotAndCold</defName>
+		<label>Hot and Cold</label>
+		<description>Have a single colonist with caffeine highs from both hot and iced coffee</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>VBE_HotCoffeeHigh</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>VBE_IcedCoffeeHigh</key>
+					<value>1</value>
+				</li>
+			</defs>
+		</tracker>
+		<texPath>Achievements/VAE_HotAndCold</texPath>
+		<points>15</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_CaffeineAddiction</defName>
+		<label>Perma-Buzzed</label>
+		<description>Have a colonist develop a caffeine addiction</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>VBE_CaffeineAddiction</def>
+			<count>1</count>
+		</tracker>
+		<texPath>Achievements/VAE_CaffeineAddiction</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_DrinkFermenters</defName>
+		<label>Well-Stocked Brewery</label>
+		<description>Build a total of 30 drink fermenter buildings</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.MultipleBuildingTracker">
+			<buildingsList>
+				<li>VBE_AmbrandyDistillery</li>
+				<li>VBE_WhiskeyCask</li>
+				<li>VBE_TequilaBarrel</li>
+				<li>VBE_VodkaDrum</li>
+				<li>VBE_GinStill</li>
+			</buildingsList>
+			<count>30</count>
+		</tracker>
+		<texPath>Achievements/VAE_DrinkFermenters</texPath>
+		<points>50</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef>
+		<defName>VAE_SmokeACigar</defName>
+		<label>A Luxurious Puff</label>
+		<description>Have a colonist smoke a cigar</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.HediffTracker">
+			<def>VBE_DeluxeTobaccoHigh</def>
+			<count>1</count>
+		</tracker>
+		<texPath>Achievements/VAE_SmokeACigar</texPath>
+		<points>10</points>
+	</AchievementsExpanded.AchievementDef>
+	<AchievementsExpanded.AchievementDef MayRequire="VanillaExpanded.VCookE">
+		<defName>VAE_FiveHundredCigarettes</defName>
+		<label>500 Cigarettes</label>
+		<description>Craft 500 cigarettes</description>
+		<bgtexPath>Achievements/VBE_AchievementBackground</bgtexPath>
+		<tab>VCE_Achievements</tab>
+		<tracker Class="AchievementsExpanded.ItemCraftTracker">
+			<def>VBE_Cigarettes</def>
+			<count>500</count>
+		</tracker>
+		<texPath>Achievements/VAE_FiveHundredCigarettes</texPath>
+		<points>25</points>
+	</AchievementsExpanded.AchievementDef>
+</Defs>
+
